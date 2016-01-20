@@ -1,14 +1,14 @@
-layout_spectrum: 0.3062093
-typography_spectrum: 0.5676495
+layout_spectrum: 1
+typography_spectrum: 0.6630824
 color:
   saturation: 0.9458883
   lightness: 0.0598769
   brandStrength: 1
   brandColors:
-    - '#FFFFFF'
-    - '#020403'
-    - '#B50404'
-    - '#02A216'
-    - '#01FFFF'
+    - '#010001'
+    - '#FA385D'
+    - '#5C3991'
+    - '#A342FA'
+    - '#1F7730'
   rhythmicContrast: 0.6818715
 name: WhiteTieSociety
